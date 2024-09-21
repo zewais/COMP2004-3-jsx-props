@@ -1,5 +1,10 @@
 # COMP2004 - Lecture 3 JSX Basics and Props
 
+## Package installation and running
+
+- Open the terminal inside the folder and run `npm install` to install the node_modules folder.
+- To run, type `npm run dev` in the terminal.
+
 ## Contents
 
 - In this lecture we will discuss how to create a simple react program using Vite library.
