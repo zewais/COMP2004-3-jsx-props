@@ -1,8 +1,10 @@
-# React + Vite
+# COMP2004 - Lecture 3 JSX Basics and Props
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Contents
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- In this lecture we will discuss how to create a simple react program using Vite library.
+- How to structure your React project.
+- How to create simple React components using JSX.
+- How to export and import React components between files.
+- Making static and dynamic components using props.
+- How to transport props from JSX files.
