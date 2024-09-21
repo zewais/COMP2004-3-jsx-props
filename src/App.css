@@ -40,3 +40,38 @@
 .read-the-docs {
   color: #888;
 }
+
+.card {
+  border: #888 2px solid;
+  border-radius: 10px;
+  padding: 1em;
+  margin: 0 10px;
+}
+
+.card-sale {
+  /*make a border glow in css*/
+  box-shadow: 0 0 10px 5px #61dafbaa;
+}
+
+.card h1 {
+  font-size: 20px;
+}
+
+.card h2 {
+  font-size: 16px;
+  color: aquamarine;
+  margin: 0 10px;
+}
+
+.image {
+  width: 100px;
+}
+
+.cards-collection {
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+  border: 2px solid #61dafbaa;
+  border-radius: 15px;
+  padding: 2em;
+}
